@@ -56,7 +56,7 @@ Contributions are welcome! If you have any suggestions, improvements, or new fea
 
 5. Submit a pull request, explaining the changes you have made and their significance.
 
-Your contributions will be reviewed and merged if they align with the project's goals and guidelines.
+Your contributions will be reviewed and merged if they align with the project's goals and guidelines it will be merged as soon as possible.
 
 Make sure to adhere to the code style, provide appropriate documentation, and write informative commit messages to ensure a smooth reviewing process.
 
